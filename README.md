@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
-<h3 align="center">I like languages, natural and formal alike.</h3>
+<h1 align="left">Hi 👋, I'm Marco</h1>
+<h3 align="left">I like languages, natural and formal alike.</h3>
 
 - 🌱 I’m currently learning **Python3, Numpy and Pandas**
+
+ToDo:
+> - [ ] get better at spanish and python
+> - [x] clean up profile
+> - [x] create a short description
+> - [ ] create a fancy profile readme
+> - [ ] apply for jobs (i.e. do something usefull)
+> - [x] grind on codewars
+> - [x] grind on Kaggle at least once a week
 
 [<img src="https://www.codewars.com/users/ma-fox/badges/large">](https://www.codewars.com/users/ma-fox)
 
