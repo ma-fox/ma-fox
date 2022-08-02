@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Marco</h1>
 <h3 align="left">I like languages, natural and formal alike.</h3>
 
-- 🌱 I’m currently learning **Python3, Numpy and Pandas**
+- I’m currently learning **Python3, Numpy and Pandas**
 
 ToDo:
 > - [ ] get better at spanish and python
@@ -13,10 +13,11 @@ ToDo:
 > - [x] grind on Kaggle at least once a week
 
 [<img src="https://www.codewars.com/users/ma-fox/badges/large">](https://www.codewars.com/users/ma-fox)
-
+<!-- gnu-bash-iconsvg.svg -->
+<!-- https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ma-fox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ma-fox" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ma-fox" target="blank"><img align="center" src="gnu-bash-iconsvg.svg" alt="ma-fox" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19665349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19665349" height="30" width="40" /></a>
 <a href="https://kaggle.com/ma_fox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ma_fox" height="30" width="40" /></a>
 </p>
