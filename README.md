@@ -26,15 +26,17 @@ ToDo:
 
 **Languages I have used**
 
-![Ruby](https://img.shields.io/badge/-Ruby-000000?logo=ruby&logoColor=#CC342D&style=flat)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-000000?logo=rubyonrails&logoColor=#CC0000&style=flat)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat=ruby-on-rails&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/MySQL-005C84?flat&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&flat&logo=Jupyter&logoColor=white)
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?flat&logo=GNU%20Bash&logoColor=white)
+![TMUX](https://img.shields.io/badge/tmux-1BB91F?flat&logo=tmux&logoColor=white)
