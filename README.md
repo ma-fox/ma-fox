@@ -26,8 +26,8 @@ ToDo:
 
 **Languages I have used**
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&Color=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&Color=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?flat&logo=mysql&logoColor=white)
