@@ -54,6 +54,7 @@ ToDo:
 
 **Languages I have used**
 <p align="center">
+
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&Color=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&Color=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
@@ -68,5 +69,5 @@ ToDo:
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?flat&logo=GNU%20Bash&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?flat&logo=tmux&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </p>
