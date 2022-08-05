@@ -4,6 +4,8 @@
 
 - I’m currently learning **Python3, Numpy and Pandas**
 
+<BR>
+
 ToDo:
 > - [ ] get better at spanish and python
 > - [ ] create a fancy profile readme
@@ -38,6 +40,7 @@ ToDo:
 
   </div>
   </p> -->
+<BR>
 
 **Languages I have used**
 <p align="center">
@@ -61,7 +64,7 @@ ToDo:
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </p>
 
-
+<BR>
 
 <p align="center">
 
