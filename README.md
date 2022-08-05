@@ -2,7 +2,7 @@
 
 <h3 align="left">I love languages, natural and formal alike.</h3>
 
-- 🌱 I’m currently learning **Python3, Numpy and Pandas**
+- I’m currently learning **Python3, Numpy and Pandas**
 
 ToDo:
 > - [ ] get better at spanish and python
@@ -13,7 +13,6 @@ ToDo:
 > - [x] grind on Kaggle at least once a week
 
 <!-- > - [x] clean up profile
-[<img src="https://www.codewars.com/users/ma-fox/badges/large">](https://www.codewars.com/users/ma-fox)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,17 +40,6 @@ ToDo:
   </p> -->
 
 ---
-
-**Github Stats:**
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-fox&hide=stars&show_icons=true&count_private=true&theme=dracula&line_height=32">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-fox&show_icons=true&count_private=true&theme=dracula"> -->
-
-</p>
-
-
 **Languages I have used**
 <p align="center">
 
@@ -72,4 +60,13 @@ ToDo:
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?flat&logo=GNU%20Bash&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?flat&logo=tmux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+</p>
+
+** Stats:**
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-fox&hide=stars&show_icons=true&count_private=true&theme=dracula&line_height=32">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-fox&show_icons=true&count_private=true&theme=dracula"> -->
+  <img src="https://www.codewars.com/users/ma-fox/badges/large">
 </p>
