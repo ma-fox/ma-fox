@@ -62,11 +62,13 @@ ToDo:
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </p>
 
-** Stats:**
+
 
 <p align="center">
-
+** Github Stats:**
   <img src="https://github-readme-stats.vercel.app/api?username=ma-fox&hide=stars&show_icons=true&count_private=true&theme=dracula&line_height=32">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-fox&show_icons=true&count_private=true&theme=dracula"> -->
+
+** Codewars Stats:**
   <img src="https://www.codewars.com/users/ma-fox/badges/large">
 </p>
