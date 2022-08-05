@@ -40,12 +40,13 @@ ToDo:
 
 **Github Stats:**
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-fox&hide=stars&show_icons=true&count_private=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-fox&layout=compact&theme=dracula">
-</p> -->
+<p align="center">
 
-![foxi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-fox&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=ma-fox&hide=stars&show_icons=true&count_private=false&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-fox&count_private=false&theme=dracula">
+
+</p>
+
 ---
 <!-- **Languages I have used**
 
