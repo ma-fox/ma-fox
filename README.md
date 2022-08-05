@@ -32,8 +32,7 @@ ToDo:
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-100000?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?flat&logo=GNU%20Bash&logoColor=white)&nbsp;
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?flat&logo=tmux&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
