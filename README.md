@@ -57,9 +57,9 @@ ToDo:
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&Color=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&Color=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-100000?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-100000?style=flat&logo=bootstrap)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?flat&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&flat&logo=Jupyter&logoColor=white)
@@ -68,7 +68,7 @@ ToDo:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Linux](https://img.shields.io/badge/-Linux-100000?style=flat&logo=linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?flat&logo=GNU%20Bash&logoColor=white)
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?flat&logo=tmux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
