@@ -7,13 +7,13 @@
 
 ToDo:
 > - [ ] get better at spanish and python
-<!-- > - [x] clean up profile
 > - [x] create a short description -->
 > - [ ] create a fancy profile readme
 > - [ ] apply for jobs (i.e. do something usefull)
 > - [x] grind on codewars
 > - [x] grind on Kaggle at least once a week
 
+<!-- > - [x] clean up profile
 [<img src="https://www.codewars.com/users/ma-fox/badges/large">](https://www.codewars.com/users/ma-fox)
 
 <!-- <h3 align="left">Connect with me:</h3>
