@@ -6,12 +6,12 @@
 
 ToDo:
 > - [ ] get better at spanish and python
-> - [x] create a short description -->
 > - [ ] create a fancy profile readme
 > - [ ] apply for jobs (i.e. do something usefull)
 > - [x] grind on codewars
 > - [x] grind on Kaggle at least once a week
 
+<!-- > - [x] create a short description -->
 <!-- > - [x] clean up profile
 
 <!-- <h3 align="left">Connect with me:</h3>
