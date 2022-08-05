@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋,<h2>I'm Marco</h2></h1>
+<h1 align="left">Hi 👋, I'm Marco</h1>
 
 <h3 align="left">I love languages, natural and formal alike.</h3>
 
@@ -25,19 +25,20 @@ ToDo:
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&Color=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-100000?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-100000?style=flat&logo=bootstrap)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-005C84?flat&logo=mysql&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&flat&logo=Jupyter&logoColor=white)&nbsp;
 
 **Some of the technologies I have worked with**
 
-![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?flat&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-100000?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?flat&logo=GNU%20Bash&logoColor=white)&nbsp;
 ![TMUX](https://img.shields.io/badge/tmux-1BB91F?flat&logo=tmux&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&flat&logo=Jupyter&logoColor=white)&nbsp;
+
 </p>
 
 <BR>
