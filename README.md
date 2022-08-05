@@ -1,6 +1,5 @@
-<h1 align="left">Hi 👋,</h1>
- <BR>
- <h2>I'm Marco</h2>
+<h1 align="left">Hi 👋,<BR><h2>I'm Marco</h2></h1>
+
 <h3 align="left">I love languages, natural and formal alike.</h3>
 
 - 🌱 I’m currently learning **Python3, Numpy and Pandas**
