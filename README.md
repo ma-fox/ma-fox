@@ -1,12 +1,14 @@
-<h1 align="left">Hi 👋, <BR> I'm Marco</h1>
+<h1 align="left">Hi 👋,</h1>
+ <BR>
+ <h2>I'm Marco</h2>
 <h3 align="left">I love languages, natural and formal alike.</h3>
 
 - 🌱 I’m currently learning **Python3, Numpy and Pandas**
 
 ToDo:
 > - [ ] get better at spanish and python
-> - [x] clean up profile
-> - [x] create a short description
+<!-- > - [x] clean up profile
+> - [x] create a short description -->
 > - [ ] create a fancy profile readme
 > - [ ] apply for jobs (i.e. do something usefull)
 > - [x] grind on codewars
