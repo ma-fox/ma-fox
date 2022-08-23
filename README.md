@@ -7,11 +7,11 @@
 <BR>
 
 ToDo:
-> - [ ] get better at spanish and python
+> - [x] get better at spanish and python
 > - [ ] create a fancy profile readme
 > - [ ] apply for jobs (i.e. do something usefull)
 > - [x] grind on codewars
-> - [x] grind on Kaggle at least once a week
+> - [ ] grind on Kaggle at least once a week
 
 <!-- > - [x] create a short description -->
 <!-- > - [x] clean up profile -->
