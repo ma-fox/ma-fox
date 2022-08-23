@@ -27,8 +27,8 @@ ToDo:
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo&logo=postgresql&logoColor=white)&nbsp;
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo&logo=postgresql&logoColor=white)&nbsp;
+<!-- SQL not showing ICON -->
 **Some of the technologies I have worked with**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
