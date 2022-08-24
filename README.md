@@ -2,7 +2,7 @@
 
 <h3 align="left">I love languages, natural and formal alike.</h3>
 
-- I’m currently learning **Python3, Numpy and Pandas**
+- I’m currently learning the **Numpy and Pandas** librarys.
 
 <BR>
 
