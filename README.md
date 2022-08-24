@@ -28,6 +28,7 @@ ToDo:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 **Some of the technologies I have worked with**
 
