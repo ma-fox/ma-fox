@@ -9,7 +9,7 @@
 ToDo:
 > - [x] get better at spanish and python
 > - [ ] create a fancy profile readme
-> - [x] apply for jobs (i.e. do something usefull)
+> - [ ] apply for jobs (i.e. do something usefull)
 > - [x] grind on codewars
 > - [ ] grind on Kaggle at least once a week
 
